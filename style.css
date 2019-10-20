@@ -5,6 +5,18 @@ body {
   margin: 2em;
 }
 
+.poke {
+  width: 5em;
+  height:  5em;
+  border: 1px solid black;
+  border-radius: 50%;
+   background: red, white;
+  background-position: bottom, top;
+  background-repeat: no-repeat, repeat;
+  
+}
+
+
 h1 {
   font-style: italic;
   color: #373fff;
