@@ -1,10 +1,10 @@
-Welcome to Glitch
+dataviz + pkmn
 =================
 
 So I wanted to work on making some simple examples with different kinds of d3 charts. 
 
-but dummy data is no fun. 
-I wanted to make it fun by finding a bit of real data from somewhere on the interwebs.
+But dummy data is not very much fun. 
+I wanted to make it interesting by finding a bit of real data from somewhere on the interwebs.
 So I found a survey on gen 1 pokemon starters!
 
 "Japan’s MyNavi recently conducted a survey of 400 college students (197 boys, 203 girls)..."
@@ -13,12 +13,13 @@ So I found a survey on gen 1 pokemon starters!
 Alright here's the responses to the question of: who was your original starter?
 
 Pokemon | Charmander       | Squirtle          | Bulbasaur |
-----| ------------- |:-------------:| -----:|
+----| ------------: |-----------:| -----:|
 Number(out of 400)| 157      | 130| 113 |
 Percentage | 39.3%     | 32.5%      |   28.2% |
 
+Check out the demo here: https://pkmn-viz.glitch.me/ (still a work in progress...)
 
-###pkmn nostalgia
+### pkmn nostalgia
 
 
 Pokemon was a mad epic game when I was younger. I never owned a gameboy growing up with my parents but I would play games by borrowing them from friends. A little later I got a palm pilot and ran an emulator on it (liberty for those interested or familiar with palm software http://www.gambitstudios.com/liberty.asp). 
@@ -26,7 +27,6 @@ Pokemon was a mad epic game when I was younger. I never owned a gameboy growing 
 I still enjoy playing the original pokemon games as well as fan made hacks on occasion.
 
 
-Made by [Glitch](https://glitch.com/)
+Made with [Glitch](https://glitch.com/)
 -------------------
 
-\ ゜o゜)ノ
