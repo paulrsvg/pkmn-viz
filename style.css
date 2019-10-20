@@ -8,13 +8,18 @@ body {
 .poke {
   width: 5em;
   height:  5em;
-  border: 1px solid black;
+  border: 2px solid black;
   border-radius: 50%;
-   background: red, white;
+  background: red;
+  background: linear-gradient(to bottom, #A00 50%, #DDD 50%);
+   
   background-position: bottom, top;
   background-repeat: no-repeat, repeat;
   
 }
+
+
+
 
 
 h1 {
